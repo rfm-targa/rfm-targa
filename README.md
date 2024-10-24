@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfm-targa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfm-targa&show_icons=true&theme=dark)
 
 <!--
 **rfm-targa/rfm-targa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
